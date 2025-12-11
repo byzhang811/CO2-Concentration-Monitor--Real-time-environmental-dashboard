@@ -21,6 +21,8 @@ Developed for **BU EC535 Lab 5**.
   - Green LED on **GPIO 48**
 
 > Note: The program accesses `/dev/fb0`, `/sys/class/gpio/...` and `/root/co2_log.csv`, so it should run as **root**.
+> chmod -x ./my_qt_app
+> chmod -x ./fix_net_and_sync_time.sh
 
 ## Build
 
